@@ -1,6 +1,3 @@
-Thank you for sharing all the content from your Obsidian starter vault. Now that you have finished uploading, I'll help you create a README file for your vault. Here is a suggested README.md file for your Obsidian starter vault:
-
----
 
 # Obsidian Starter Vault
 
