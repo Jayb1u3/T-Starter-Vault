@@ -1,7 +1,7 @@
 
 # Obsidian Starter Vault
 
-Welcome to your new Obsidian vault! This vault is designed to help you transition from **note taking** to **note making**. It serves as a starting point for organizing your thoughts, knowledge, and projects in a structured way. I will be including, over time, templates (including for templater and dataview) that I personally find useful. This README will guide you through the key features and resources available in this vault.
+Welcome to your new Obsidian vault! This vault is designed to help you transition to Obsidian. It serves as a starting point for organizing your thoughts, knowledge, and projects in a structured way. I will be including, over time, templates (including for templater and dataview) that I personally find useful. This README will guide you through the key features and resources available in this vault.
 
 ## Getting Started
 
