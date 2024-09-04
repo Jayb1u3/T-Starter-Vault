@@ -1,11 +1,11 @@
 
 # Obsidian Starter Vault
 
-Welcome to your new Obsidian vault! This vault is designed to help you transition to Obsidian. It serves as a starting point for organizing your thoughts, knowledge, and projects in a structured way. I will be including, over time, templates (including for templater and dataview) that I personally find useful. This README will guide you through the key features and resources available in this vault.
+Welcome to your new Obsidian vault! This vault is designed to help you transition to Obsidian. It serves as a starting point for organizing your thoughts, knowledge, and projects in a structured way. Over time, I will include templates (templates for templater and dataview) that I find useful. This README will guide you through the key features and resources available in this vault.
 
 ## Getting Started
 
-1. **Duplicate This Vault**: Before you start using this vault, it's recommended to duplicate it. This allows you to use this setup for other projects in the future without losing your initial configuration.
+1. **Duplicate This Vault**: It's recommended that you duplicate this vault before you start using it. This allows you to use this setup for other projects in the future without losing your initial configuration.
 
 2. **Home Base**: Start your journey from the `000 Home` note, where you will find links to various resources and guides to help you get the most out of Obsidian.
 
@@ -17,7 +17,7 @@ Welcome to your new Obsidian vault! This vault is designed to help you transitio
 Use the [Importer plugin](https://help.obsidian.md/Plugins/Importer) to bring in notes from other platforms into Obsidian.
 
 ### Creating and Formatting Notes
-- **Creating New Notes**: Learn how to create notes with ease. Refer to the `Creating New Notes` guide.
+- **Creating New Notes**: Learn how to create notes easily by following the `Creating New Notes` guide.
 - **Formatting Text**: Master Markdown formatting with the `Formatting Text` note, which covers headings, bold text, italics, and more.
 - **Advanced Formatting**: Dive deeper with the `Advanced Formatting Syntax` note, where you'll learn about tables, diagrams using Mermaid, and mathematical expressions using MathJax.
 
@@ -33,6 +33,8 @@ For more detailed information and advanced usage of Obsidian, visit the [Obsidia
 
 - **Markdown Syntax**: Refer to the `Formatting Text` note to get started with Markdown.
 - **Dataview Documentation**: Learn more about Dataview's capabilities through the [official Dataview documentation](https://blacksmithgu.github.io/obsidian-dataview/).
+- **Templater Plugin**: Here is a link to the [templater repo](https://github.com/SilentVoid13/Templater).
+- **Templater Documentation**: Learn more about what you can do with Templater through the [Official Templater documentation](https://silentvoid13.github.io/Templater/).
 
 ## Notes Overview
 
