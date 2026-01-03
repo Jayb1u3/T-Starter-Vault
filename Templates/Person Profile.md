@@ -10,7 +10,7 @@ const educationLevel = await tp.system.prompt("Enter the person's education leve
 const biography = await tp.system.prompt("Enter a short biography for the person:");
 const phoneNumber = await tp.system.prompt("Enter the person's phone number:");
 
-/* Constructing the YAML front matter and note content */
+/* Constructing the YAML front matter and note content */ 
 const content = `---
 tags: 
 - Person
